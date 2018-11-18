@@ -1,0 +1,158 @@
+rank,country,value
+1,Denmark,1.44178
+2,Switzerland,1.52733
+3,Iceland,1.42666
+4,Norway,1.57744
+5,Finland,1.40598
+6,Canada,1.44015
+7,Netherlands,1.46468
+8,New Zealand,1.36066
+9,Australia,1.44443
+10,Sweden,1.45181
+11,Israel,1.33766
+12,Austria,1.45038
+13,United States,1.50796
+14,Costa Rica,1.06879
+15,Puerto Rico,1.35943
+16,Germany,1.44787
+17,Brazil,1.08754
+18,Belgium,1.42539
+19,Ireland,1.48341
+20,Luxembourg,1.69752
+21,Mexico,1.11508
+22,Singapore,1.64555
+23,United Kingdom,1.40283
+24,Chile,1.2167
+25,Panama,1.18306
+26,Argentina,1.15137
+27,Czech Republic,1.30915
+28,United Arab Emirates,1.57352
+29,Uruguay,1.18157
+30,Malta,1.30782
+31,Colombia,1.03032
+32,France,1.39488
+33,Thailand,1.0893
+34,Saudi Arabia,1.48953
+34,Taiwan,1.39729
+36,Qatar,1.82427
+37,Spain,1.34253
+38,Algeria,1.05266
+39,Guatemala,0.83454
+40,Suriname,1.09686
+41,Kuwait,1.61714
+42,Bahrain,1.44024
+43,Trinidad and Tobago,1.32572
+44,Venezuela,1.13367
+45,Slovakia,1.27973
+46,El Salvador,0.8737
+47,Malaysia,1.25142
+48,Nicaragua,0.69384
+49,Uzbekistan,0.73591
+50,Italy,1.35495
+51,Ecuador,0.97306
+52,Belize,0.87616
+53,Japan,1.38007
+54,Kazakhstan,1.22943
+55,Moldova,0.69177
+56,Russia,1.23228
+57,Poland,1.24585
+57,South Korea,1.35948
+59,Bolivia,0.79422
+60,Lithuania,1.2692
+61,Belarus,1.13062
+62,North Cyprus,1.31141
+63,Slovenia,1.29947
+64,Peru,0.99602
+65,Turkmenistan,1.08017
+66,Mauritius,1.14372
+67,Libya,1.06688
+68,Latvia,1.21788
+69,Cyprus,1.31857
+70,Paraguay,0.89373
+71,Romania,1.1697
+72,Estonia,1.27964
+73,Jamaica,0.89333
+74,Croatia,1.18649
+75,Hong Kong,1.5107
+76,Somalia,0
+77,Kosovo,0.90145
+78,Turkey,1.16492
+79,Indonesia,0.95104
+80,Jordan,0.99673
+81,Azerbaijan,1.12373
+82,Philippines,0.81217
+83,China,1.0278
+84,Bhutan,0.8527
+85,Kyrgyzstan,0.56044
+86,Serbia,1.03437
+87,Bosnia and Herzegovina,0.93383
+88,Montenegro,1.07838
+89,Dominican Republic,1.02787
+90,Morocco,0.84058
+91,Hungary,1.24142
+92,Pakistan,0.68816
+93,Lebanon,1.12268
+94,Portugal,1.27607
+95,Macedonia,1.0193
+96,Vietnam,0.74037
+97,Somaliland Region,0.25558
+98,Tunisia,0.97724
+99,Greece,1.24886
+100,Tajikistan,0.48835
+101,Mongolia,0.98853
+102,Laos,0.68042
+103,Nigeria,0.75216
+104,Honduras,0.69429
+105,Iran,1.11758
+106,Zambia,0.61202
+107,Nepal,0.44626
+108,Palestinian Territories,0.67024
+109,Albania,0.9553
+110,Bangladesh,0.54177
+111,Sierra Leone,0.36485
+112,Iraq,1.07474
+113,Namibia,0.93287
+114,Cameroon,0.52497
+115,Ethiopia,0.29283
+116,South Africa,1.02416
+117,Sri Lanka,0.97318
+118,India,0.74036
+119,Myanmar,0.34112
+120,Egypt,0.95395
+121,Armenia,0.86086
+122,Kenya,0.52267
+123,Ukraine,0.87287
+124,Ghana,0.63107
+125,Congo (Kinshasa),0.05661
+126,Georgia,0.83792
+127,Congo (Brazzaville),0.77109
+128,Senegal,0.44314
+129,Bulgaria,1.11306
+130,Mauritania,0.61391
+131,Zimbabwe,0.35041
+132,Malawi,0.08709
+133,Sudan,0.63069
+134,Gabon,1.15851
+135,Mali,0.31292
+136,Haiti,0.34097
+137,Botswana,1.09426
+138,Comoros,0.27509
+139,Ivory Coast,0.55507
+140,Cambodia,0.55604
+141,Angola,0.84731
+142,Niger,0.1327
+143,South Sudan,0.39394
+144,Chad,0.42214
+145,Burkina Faso,0.31995
+145,Uganda,0.34719
+147,Yemen,0.57939
+148,Madagascar,0.27954
+149,Tanzania,0.47155
+150,Liberia,0.10706
+151,Guinea,0.22415
+152,Rwanda,0.32846
+153,Benin,0.39499
+154,Afghanistan,0.38227
+155,Togo,0.28123
+156,Syria,0.74719
+157,Burundi,0.06831

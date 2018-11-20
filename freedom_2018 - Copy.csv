@@ -1,0 +1,157 @@
+rank,country,value,region
+1,Finland,0.681,Western Europe
+2,Norway,0.686,Western Europe
+3,Denmark,0.683,Western Europe
+4,Iceland,0.677,Western Europe
+5,Switzerland,0.66,Western Europe
+6,Netherlands,0.638,Western Europe
+7,Canada,0.653,North America and ANZ
+8,New Zealand,0.669,North America and ANZ
+9,Sweden,0.659,Western Europe
+10,Australia,0.647,North America and ANZ
+11,Israel,0.464,Middle East and North Africa
+12,Austria,0.617,Western Europe
+13,Costa Rica,0.632,Latin America and Caribbean
+14,Ireland,0.614,Western Europe
+15,Germany,0.586,Western Europe
+16,Belgium,0.583,Western Europe
+17,Luxembourg,0.632,Western Europe
+18,United States,0.547,North America and ANZ
+19,United Kingdom,0.533,Western Europe
+20,United Arab Emirates,0.67,Middle East and North Africa
+21,Czech Republic,0.543,Central and Eastern Europe
+22,Malta,0.645,Western Europe
+23,France,0.52,Western Europe
+24,Mexico,0.479,Latin America and Caribbean
+25,Chile,0.431,Latin America and Caribbean
+26,Taiwan Province of China,0.418,East Asia
+27,Panama,0.597,Latin America and Caribbean
+28,Brazil,0.493,Latin America and Caribbean
+29,Argentina,0.57,Latin America and Caribbean
+30,Guatemala,0.604,Latin America and Caribbean
+31,Uruguay,0.625,Latin America and Caribbean
+32,Qatar,0.654,Middle East and North Africa
+33,Saudi Arabia,0.509,Middle East and North Africa
+34,Singapore,0.631,Southeast Asia
+35,Malaysia,0.356,Southeast Asia
+36,Spain,0.449,Western Europe
+37,Colombia,0.531,Latin America and Caribbean
+38,Trinidad & Tobago,0.575,Latin America and Caribbean
+39,Slovakia,0.354,Central and Eastern Europe
+40,El Salvador,0.461,Latin America and Caribbean
+41,Nicaragua,0.527,Latin America and Caribbean
+42,Poland,0.546,Central and Eastern Europe
+43,Bahrain,0.594,Middle East and North Africa
+44,Uzbekistan,0.724,Commonwealth of Independent States
+45,Kuwait,0.554,Middle East and North Africa
+46,Thailand,0.637,Southeast Asia
+47,Italy,0.281,Western Europe
+48,Ecuador,0.556,Latin America and Caribbean
+49,Belize,0.593,Latin America and Caribbean
+50,Lithuania,0.35,Central and Eastern Europe
+51,Slovenia,0.633,Central and Eastern Europe
+52,Romania,0.528,Central and Eastern Europe
+53,Latvia,0.363,Central and Eastern Europe
+54,Japan,0.553,East Asia
+55,Mauritius,0.584,Sub-Saharan Africa
+56,Jamaica,0.575,Latin America and Caribbean
+57,South Korea,0.244,East Asia
+58,Northern Cyprus,0.495,Western Europe
+59,Russia,0.399,Commonwealth of Independent States
+60,Kazakhstan,0.454,Commonwealth of Independent States
+61,Cyprus,0.423,Western Europe
+62,Bolivia,0.606,Latin America and Caribbean
+63,Estonia,0.553,Central and Eastern Europe
+64,Paraguay,0.541,Latin America and Caribbean
+65,Peru,0.53,Latin America and Caribbean
+66,Kosovo,0.448,Central and Eastern Europe
+67,Moldova,0.232,Commonwealth of Independent States
+68,Turkmenistan,0.417,Commonwealth of Independent States
+69,Hungary,0.259,Central and Eastern Europe
+70,Libya,0.496,Middle East and North Africa
+71,Philippines,0.643,Southeast Asia
+72,Honduras,0.459,Latin America and Caribbean
+73,Belarus,0.307,Commonwealth of Independent States
+74,Turkey,0.324,Middle East and North Africa
+75,Pakistan,0.334,South Asia
+76,"Hong Kong SAR, China",0.524,East Asia
+77,Portugal,0.562,Western Europe
+78,Serbia,0.288,Central and Eastern Europe
+79,Greece,0.131,Western Europe
+80,Tajikistan,0.503,Commonwealth of Independent States
+81,Montenegro,0.259,Central and Eastern Europe
+82,Croatia,0.38,Central and Eastern Europe
+83,Dominican Republic,0.578,Latin America and Caribbean
+84,Algeria,0.077,Middle East and North Africa
+85,Morocco,0.46,Middle East and North Africa
+86,China,0.597,East Asia
+87,Azerbaijan,0.43,Commonwealth of Independent States
+88,Lebanon,0.292,Middle East and North Africa
+89,Macedonia,0.394,Central and Eastern Europe
+90,Jordan,0.468,Middle East and North Africa
+91,Nigeria,0.462,Sub-Saharan Africa
+92,Kyrgyzstan,0.54,Commonwealth of Independent States
+93,Bosnia and Herzegovina,0.28,Central and Eastern Europe
+94,Mongolia,0.395,East Asia
+95,Vietnam,0.618,Southeast Asia
+96,Indonesia,0.538,Southeast Asia
+97,Bhutan,0.541,South Asia
+98,Somalia,0.674,Sub-Saharan Africa
+99,Cameroon,0.454,Sub-Saharan Africa
+100,Bulgaria,0.359,Central and Eastern Europe
+101,Nepal,0.526,South Asia
+102,Venezuela,0.133,Latin America and Caribbean
+103,Gabon,0.356,Sub-Saharan Africa
+104,Palestinian Territories,0.266,Middle East and North Africa
+105,South Africa,0.516,Sub-Saharan Africa
+106,Iran,0.459,Middle East and North Africa
+107,Ivory Coast,0.467,Sub-Saharan Africa
+108,Ghana,0.499,Sub-Saharan Africa
+109,Senegal,0.406,Sub-Saharan Africa
+110,Laos,0.626,Southeast Asia
+111,Tunisia,0.271,Middle East and North Africa
+112,Albania,0.419,Central and Eastern Europe
+113,Sierra Leone,0.355,Sub-Saharan Africa
+114,Congo (Brazzaville),0.514,Sub-Saharan Africa
+115,Bangladesh,0.58,South Asia
+116,Sri Lanka,0.585,South Asia
+117,Iraq,0.304,Middle East and North Africa
+118,Mali,0.367,Sub-Saharan Africa
+119,Namibia,0.519,Sub-Saharan Africa
+120,Cambodia,0.696,Southeast Asia
+121,Burkina Faso,0.312,Sub-Saharan Africa
+122,Egypt,0.312,Middle East and North Africa
+123,Mozambique,0.531,Sub-Saharan Africa
+124,Kenya,0.504,Sub-Saharan Africa
+125,Zambia,0.503,Sub-Saharan Africa
+126,Mauritania,0.129,Sub-Saharan Africa
+127,Ethiopia,0.452,Sub-Saharan Africa
+128,Georgia,0.375,Commonwealth of Independent States
+129,Armenia,0.26,Commonwealth of Independent States
+130,Myanmar,0.58,Southeast Asia
+131,Chad,0.189,Sub-Saharan Africa
+132,Congo (Kinshasa),0.312,Sub-Saharan Africa
+133,India,0.539,South Asia
+134,Niger,0.39,Sub-Saharan Africa
+135,Uganda,0.45,Sub-Saharan Africa
+136,Benin,0.44,Sub-Saharan Africa
+137,Sudan,0.016,Sub-Saharan Africa
+138,Ukraine,0.163,Commonwealth of Independent States
+139,Togo,0.434,Sub-Saharan Africa
+140,Guinea,0.394,Sub-Saharan Africa
+141,Lesotho,0.423,Sub-Saharan Africa
+142,Angola,0,Sub-Saharan Africa
+143,Madagascar,0.221,Sub-Saharan Africa
+144,Zimbabwe,0.406,Sub-Saharan Africa
+145,Afghanistan,0.085,South Asia
+146,Botswana,0.557,Sub-Saharan Africa
+147,Malawi,0.531,Sub-Saharan Africa
+148,Haiti,0.025,Latin America and Caribbean
+149,Liberia,0.419,Sub-Saharan Africa
+150,Syria,0.088,Middle East and North Africa
+151,Rwanda,0.636,Sub-Saharan Africa
+152,Yemen,0.244,Middle East and North Africa
+153,Tanzania,0.481,Sub-Saharan Africa
+154,South Sudan,0.112,Sub-Saharan Africa
+155,Central African Republic,0.305,Sub-Saharan Africa
+156,Burundi,0.065,Sub-Saharan Africa
